@@ -1,0 +1,13 @@
+[Oo]bj/
+*.orig
+_ReSharper*
+*.user
+*.suo
+StyleCop.Cache/
+**/bin/[Dd]ebug/
+**/bin/[Rr]elease/
+packages/*
+#!packages/repositories.config
+*.log
+*.bak
+EPiFindEnvironments/EPiFindEnvironments.*.nupkg
